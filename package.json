@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node bot.js"
   },
-  "worker": "node app.js",
+  "worker": "node bot.js",
   "author": "",
   "license": "ISC",
   "dependencies": {
