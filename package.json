@@ -6,6 +6,7 @@
   "scripts": {
     "start": "nodemon bot.js"
   },
+  "worker": "node app.js",
   "author": "",
   "license": "ISC",
   "dependencies": {
